@@ -1,6 +1,7 @@
 # IRIS - Instant Response Immediate Support
 #### INFO-6150 Web Design Final Project 
-
+A web app to triage non-emergency complaints through immediate telehealth support with instantly available and
+qualified emergency physicians.
 
 ## Team Members
 - Aarti Gupta
